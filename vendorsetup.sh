@@ -38,8 +38,8 @@ export OF_NO_MIUI_PATCH_WARNING=1
 export OF_OTA_RES_DECRYPT=1
 export OF_NO_SAMSUNG_SPECIAL=1
 export FOX_ENABLE_APP_MANAGER=1
-export OF_MAINTAINER="Shekhawat2"
-export OF_MAINTAINER_AVATAR="device/xiaomi/whyred/shekhawat2.png"
+export OF_MAINTAINER="zacky"
+export OF_MAINTAINER_AVATAR="device/xiaomi/whyred/zacky.png"
 
 # Quick Backup Defaults
 export OF_QUICK_BACKUP_LIST="/boot;/data;/system;/system_root;/vendor;"
