@@ -45,7 +45,7 @@ export OF_MAINTAINER_AVATAR="device/xiaomi/whyred/zacky.png"
 export OF_QUICK_BACKUP_LIST="/boot;/data;/system;/system_root;/vendor;"
 
 # Update Magisk
-export FOX_USE_SPECIFIC_MAGISK_ZIP="device/xiaomi/whyred/prebuilt/Magisk-v24.3.zip"
+export FOX_USE_SPECIFIC_MAGISK_ZIP="device/xiaomi/whyred/prebuilt/Magisk-v25.2.zip"
 
 # Extra Binaries
 export FOX_USE_BASH_SHELL=1
